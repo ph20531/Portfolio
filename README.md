@@ -5,7 +5,9 @@
 
 # 001. 영화 "메트릭스"를 주제로 한 모션 그래픽
 
-https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35" width="400"/>
+</div>
 
 ## 부천대학교 디지털미디어디자인학과 과정
 2020년 02월 - 2023년 02월
@@ -19,7 +21,9 @@ https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
 
 # 002. 운동 SNS 플랫폼 "Move"
 
-https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade" width="400" />
+</div>
 
 ## 연희직업전문학교 과정
 2024년 2월 - 2024년 8월
@@ -39,7 +43,9 @@ https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
 
 # 003 펭귄 월드
 
-https://github.com/user-attachments/assets/3c9ea480-fba5-4e5e-bdaa-b038541f95d2
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3c9ea480-fba5-4e5e-bdaa-b038541f95d2" width="400" />
+</div>
 
 ## 취미 프로젝트
 개발기간 30일
