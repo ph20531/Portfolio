@@ -12,7 +12,9 @@ https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
 
 
 
-https://github.com/user-attachments/assets/6d975f32-6ff0-423d-9223-59bb28eacee2
+
+https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
+
 [Move 프로젝트 기술서.pdf](https://github.com/user-attachments/files/17141841/Move.pdf)
 https://github.com/EastWise1210/serverless-move-android
 # 운동 SNS 플랫폼 "Move" | 수료 프로젝트
