@@ -6,7 +6,7 @@
 # 001. 영화 "메트릭스"를 주제로 한 모션 그래픽
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35" width="400"/>
+  <video src="https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35"/>
 </div>
 
 ## 부천대학교 디지털미디어디자인학과 과정
@@ -22,7 +22,7 @@
 # 002. 운동 SNS 플랫폼 "Move"
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade" width="400" />
+  <video src="https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade"/>
 </div>
 
 ## 연희직업전문학교 과정
@@ -44,14 +44,14 @@
 # 003 펭귄 월드
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/3c9ea480-fba5-4e5e-bdaa-b038541f95d2" width="400" />
+  <video src="https://github.com/user-attachments/assets/3c9ea480-fba5-4e5e-bdaa-b038541f95d2"/>
 </div>
 
 ## 취미 프로젝트
 개발기간 30일
 
 ## 게임 소개
-해당 프로젝트는 펭귄 월드를 운영하는 게임으로 스타크래프트에서 영감을 얻어 제작되었습니다.
+해당 프로젝트는 펭귄 월드를 운영하는 게임으로 스타크래프트에서 영감을 얻어 제작되었습니다.<br>
 메모리 최적화를 위해 2D 오큘루전 컬링 기법을 활용하였으며 실제 모바일 환경에서는 핀줌과 터치가 가능합니다.
 
 <a href="https://github.com/ph20531/World-of-penguins">펭귄 월드 Unity 프로젝트 Github로 이동</a>
