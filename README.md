@@ -1,9 +1,9 @@
-# Portfolio
+# Portfolio (동영상 재생 전에 음소거를 해제하고 시청부탁드립니다!)
 개발 및 디자인 포트폴리오
 
 <br>
 
-# 영화 "메트릭스"를 주제로 한 모션 그래픽
+# 001. 영화 "메트릭스"를 주제로 한 모션 그래픽
 
 https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
 
@@ -15,11 +15,9 @@ https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
 해당 모션 그래픽은 영화의 상징적인 장면과 캐릭터를 시각적으로 재현하며 역동적인 애니메이션과 함께 배경음악을 결합하여 몰입감을 높였습니다.
 또한 각각의 장면들은 영화의 주제를 반영하여 관객이 영화 "메트릭스"의 세계관을 쉽게 이해할 수 있도록 구성되었습니다. 
 
+<br>
 
-<br><br>
-
-
-# 운동 SNS 플랫폼 "Move"
+# 002. 운동 SNS 플랫폼 "Move"
 
 https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
 
@@ -36,3 +34,5 @@ https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
 <br>
 <a href="https://github.com/EastWise1210/serverless-move-android">Move 안드로이드 프로젝트 Github로 이동</a>
 - 백엔드 소스코드는 담당 팀원분의 저작권으로 인해서 공개되지 않습니다.
+
+# 003 펭귄 월드
