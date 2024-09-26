@@ -3,6 +3,7 @@
 
 
 https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
+
 # <졸업 작품> 영화 "메트릭스"를 주제로 한 모션 그래픽
 ## 부천대학교 디지털미디어디자인학과 과정 | 2020년 02월 - 2023년 02월
 이 작품은 유니티3D 엔진을 이용하여 제작되었으며 영화의 독특한 비주얼과 서사를 효과적으로 전달하는 데 중점을 두었습니다. 
@@ -14,7 +15,9 @@ https://github.com/user-attachments/assets/e3b1a4ec-cf1d-4426-b6ce-3c16ba495a35
 
 
 https://github.com/user-attachments/assets/22c32140-5671-44e9-a3de-a956536feade
+
 <a href="https://github.com/user-attachments/files/17141841/Move.pdf">Move 프로젝트 기술서.pdf 다운로드</a>
+<br>
 <a href="https://github.com/EastWise1210/serverless-move-android">안드로이드 클라이언트 소스코드</a>
 - 백엔드 소스코드는 담당 팀원분의 저작권으로 인해서 공개되지 않습니다.
 
